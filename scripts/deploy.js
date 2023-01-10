@@ -1,8 +1,6 @@
 // This is a script for deploying your contracts. You can adapt it to deploy
 // yours, or create new ones.
 
-
-
 const path = require("path");
 
 async function main() {
