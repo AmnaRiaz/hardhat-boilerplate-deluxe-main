@@ -12,6 +12,11 @@ async function main() {
         " option '--network localhost'"
     );
   }
+  
+  
+  
+  
+  
 
   // ethers is available in the global scope
   const [deployer] = await ethers.getSigners();
